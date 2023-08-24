@@ -1,0 +1,29 @@
+h2 {
+    font-family: 'Courier New', 'Sans-Serif';
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+    border-style: double;
+    border-width: 10px;
+    border-color: black; 
+    font-size: xx-large;
+    font-weight: 900;
+}
+
+div {
+    border-style: line;
+    border-width: 5px;
+}
+
+body {
+    background-color: rgb(255,0,0);
+
+    border-style:dotted;
+    border-width: 10px;
+
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    size: 200;
+}
