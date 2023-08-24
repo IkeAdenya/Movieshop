@@ -15,15 +15,6 @@ div {
     border-width: 5px;
 }
 
-body {
-    background-color: rgb(255,0,0);
-
-    border-style:dotted;
-    border-width: 10px;
-
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
 p {
-    size: 200;
+    text-size-adjust: 200px;
 }
