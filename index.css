@@ -1,18 +1,29 @@
 h2 {
     font-family: 'Courier New', 'Sans-Serif';
-    color: blue;
+    color: whitesmoke;
     font-size: 40px;
     text-align: center;
-    border-style: double;
+    border-style: outset;
     border-width: 10px;
     border-color: black; 
     font-size: xx-large;
-    font-weight: 900;
+    font-weight: 1000;
+    
 }
 
-div {
-    border-style: line;
-    border-width: 5px;
+body {
+    background-color: rgb(53, 53, 53);
+}
+
+.Column {
+    border-style: inset;
+    border-width: 10px;
+    border-color: black; 
+    width: 400px;
+    color: bisque;
+    padding: 100px;
+
+    background-color: rgb(70, 70, 70);
 }
 
 p {
@@ -21,10 +32,12 @@ p {
 
 .row {
     display: flex;
+
   }
   
   /* Create three equal columns that sits next to each other */
   .column {
     flex: 33.33%;
-    padding: 5px;
+    padding: 50px;
   }
+
