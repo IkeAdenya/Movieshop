@@ -16,6 +16,7 @@ body {
 }
 
 div p {
+    display: inline;
     background-color: rgb(0, 0, 0);
 }
 
